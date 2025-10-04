@@ -64,3 +64,8 @@ git clone https://github.com/gr1zzIy/TcpChat.git
 - C#
 - .NET Framework / Windows Forms
 - TCP/IP sockets
+
+
+<img width="440" height="380" alt="Знімок екрана 2025-10-05 005712" src="https://github.com/user-attachments/assets/92af4666-1082-42b3-8649-6f276684fc0c" />
+<img width="1303" height="382" alt="Знімок екрана 2025-10-05 010001" src="https://github.com/user-attachments/assets/95641699-95d0-4628-bd2b-cd78836aa665" />
+<img width="868" height="378" alt="Знімок екрана 2025-10-05 010028" src="https://github.com/user-attachments/assets/28f442d1-51e4-4341-9033-97a1251701e1" />
