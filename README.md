@@ -15,7 +15,7 @@ TcpChat — це клієнт-серверний чат, розроблений 
 ### 🚀 Запуск проєкту
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/your-username/TcpChat.git
+   git clone https://github.com/gr1zzIy/TcpChat.git
    ```
 2. Відкрийте проєкт у Visual Studio.
 3. Запустіть збірку рішення (Build Solution).
@@ -53,7 +53,7 @@ The program allows you to create a server, connect clients via IP address, and e
 ### 🚀 How to run
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/TcpChat.git
+git clone https://github.com/gr1zzIy/TcpChat.git
 ```
 2. Open the project in Visual Studio.
 3. Build the solution.
